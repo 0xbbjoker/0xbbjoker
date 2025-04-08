@@ -16,10 +16,7 @@ I'm a software engineer with over 5 years of experience building backend systems
 
 ## 🛠️ Current Projects
 - [ElizaOS](https://github.com/elizaOS/eliza) - Contributing to this innovative operating system project with a focus on implementing RAG and LLM knowledge systems
-- Various open-source contributions and personal projects (see pinned repositories below)
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xbbjoker&show_icons=true&theme=radical)
+- Various open-source contributions and personal projects
 
 ## 🌐 Connect With Me
 - [Twitter](https://x.com/ZeroByteFox)
