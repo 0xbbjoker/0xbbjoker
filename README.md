@@ -1,5 +1,4 @@
 # Hi there 👋
-
 I'm a software engineer specializing in **Backend Development**, **Blockchain**, and **AI systems**.
 
 ## 💻 About Me
@@ -14,7 +13,7 @@ I'm a software engineer specializing in **Backend Development**, **Blockchain**,
 
 ## 🌐 Connect
 - [X (formerly Twitter)](https://x.com/0xbbjoker)
+- [Tip Me](https://www.tip.md/0xbbjoker)
 
 ---
-
 💬 *Always open to collaboration and exciting new opportunities. Feel free to connect!*
