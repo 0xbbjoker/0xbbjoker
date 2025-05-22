@@ -13,5 +13,5 @@ I'm a software engineer specializing in **Backend Development**, **Blockchain**,
 
 ## 🌐 Connect
 - [X (formerly Twitter)](https://x.com/0xbbjoker)
-- [![Tip in Crypto](https://tip.md/0xbbjoker)
+- [Tip in Crypto](https://tip.md/0xbbjoker)
 
