@@ -13,3 +13,15 @@ I'm a software engineer specializing in **Backend Development**, **Blockchain**,
 
 ## :globe_with_meridians: Connect
 - [X (formerly Twitter)](https://x.com/0xbbjoker)
+
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-27T18:01:28.075Z",
+  "wallets": [
+    {
+      "chain": "solana",
+      "address": "6ZSoGo74ZCfb4yeVHoJHai1wEekAAU61wPDKhxitJzu6"
+    }
+  ]
+}
+WALLET-LINKING-END -->
