@@ -1,18 +1,27 @@
-# Hi there :wave:
-I'm a software engineer specializing in **Backend Development**, **Blockchain**, and **AI systems**.
+# 0xbbjoker
 
-## :computer: About Me
-- :rocket: Core Developer at [ElizaOS](https://github.com/elizaOS/eliza), actively involved in developing AI-powered systems.
-- **Expertise**:
-  - **Languages**: TypeScript, JavaScript, Node.js/Bun, Rust
-  - **Blockchain**: Ethereum, Solana, Web3
-  - **AI & LLMs**: Prompt Engineering, Retrieval-Augmented Generation (RAG), Knowledge Systems
+Co-founder at [Autonomous](https://auto.fun). Building Auto — an AI-native DeFi execution layer.
 
-## :fire: Current Projects
-- [ElizaOS](https://elizaos.github.io/) - Building an innovative, AI-driven operating system as part of the core development team.
+## Now
 
-## :globe_with_meridians: Connect
-- [X (formerly Twitter)](https://x.com/0xbbjoker)
+Auto turns natural-language intent into real onchain action. Research, route, and execute across wallets, Hyperliquid perps, Polymarket, and DeFi — in one flow. Focus: collapsing the distance between a trade idea and its execution.
+
+## Previously
+
+- Core developer at [elizaOS](https://github.com/elizaOS/eliza) — one of the top contributors. Agent orchestration, plugin architecture, integrations, runtime behaviors. (Jan 2025 – Mar 2026)
+- ~6 years backend engineering across SaaS and fintech. Node.js, TypeScript, Redis, microservices, real-time data systems.
+
+## Stack
+
+- **Languages:** TypeScript, JavaScript, Node.js / Bun, Rust
+- **Chains:** Solana, Ethereum, EVM L2s
+- **AI:** LLM infra, agent systems, RAG, tool-use pipelines
+
+## Elsewhere
+
+- [auto.fun](https://auto.fun)
+- X — [@0xbbjoker](https://x.com/0xbbjoker)
+- Product — [@autodotfun_](https://x.com/autodotfun_)
 
 <!-- WALLET-LINKING-BEGIN
 {
