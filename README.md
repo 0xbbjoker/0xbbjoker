@@ -1,33 +1,33 @@
-# 0xbbjoker
+# Benjamin Berta
 
-Senior AI agent, workflow automation, and TypeScript platform engineer.
+**CTO · Engineering lead for web3 and AI products.** Remote, Croatia (CET).
 
-Co-founder at [Autonomous](https://auto.fun). Building Auto, an AI-native DeFi execution layer.
+Open to tech lead, engineering manager, and senior engineer roles in web3, AI agents, or both.
+→ [CV](https://0xbbjoker.github.io/) · [PDF](https://0xbbjoker.github.io/assets/Benjamin_Berta_CV_2026.pdf) · [LinkedIn](https://www.linkedin.com/in/berta-benjamin) · 0xbbjoker@proton.me
 
-CV: [0xbbjoker.github.io](https://0xbbjoker.github.io/)  
-PDF: [Benjamin_Berta_CV_2026.pdf](https://0xbbjoker.github.io/assets/Benjamin_Berta_CV_2026.pdf)
+## Now — CTO, [Autonomous](https://auto.fun)
 
-## Now
+Leading engineering on **Auto**, an AI trading agent that executes across crypto, perps, prediction markets, and DeFi from chat.
 
-Auto turns natural-language intent into real onchain action. Research, route, and execute across wallets, Hyperliquid perps, Polymarket, and DeFi — in one flow. Focus: collapsing the distance between a trade idea and its execution.
+- 3-engineer team, zero → production, **1,700+ users**
+- **12+ chains, 10+ venues**: Hyperliquid, Polymarket, Aave, Morpho, Jupiter, CoW, Uniswap, 0x
+- **600+ merged PRs** of my own (private repos — happy to walk through the architecture)
+
+## Also
+
+- **[Orion](https://oriontaraban.ai)**: co-created and run a subscription AI coaching product, **600+ active subscribers**
 
 ## Previously
 
-- Core developer at [elizaOS](https://github.com/elizaOS/eliza), one of the top contributors. Agent orchestration, plugin architecture, integrations, runtime behaviors. (Jan 2025-Mar 2026)
-- 7+ years backend engineering across SaaS, fintech, AI agents, and crypto-native systems. Node.js, TypeScript, Redis, microservices, realtime data systems.
+- **Core Engineer, [elizaOS](https://github.com/elizaOS/eliza)** (2025–2026): **#11 of 1,800+ contributors** ([leaderboard](https://elizaos.github.io/leaderboard)), 187 merged PRs. Owned the database layer and the Knowledge/RAG plugin; led monorepo modularization.
+- **Backend engineer** at Thentia and Barrage (2020–2024): fintech, crypto wallets, trading, KYC, and regulated SaaS on Node.js/TypeScript.
 
 ## Stack
 
-- **Languages:** TypeScript, JavaScript, Node.js / Bun, Rust
-- **Chains:** Solana, Ethereum, EVM L2s
-- **AI:** LLM infra, agent systems, RAG, MCP, memory, evals, tool-use pipelines
-
-## Elsewhere
-
-- [auto.fun](https://auto.fun)
-- CV - [0xbbjoker.github.io](https://0xbbjoker.github.io/)
-- X — [@0xbbjoker](https://x.com/0xbbjoker)
-- Product — [@autodotfun_](https://x.com/autodotfun_)
+- **Languages:** TypeScript, Node.js / Bun, Rust (working)
+- **Web3:** Solana, EVM / L2s, Hyperliquid, Polymarket, Privy wallets, DEX aggregators, lending, bridges
+- **AI:** agent runtimes, tool-use / MCP, RAG, memory, evals
+- **Infra:** Convex, PostgreSQL, Redis, Next.js, Vercel
 
 <!-- WALLET-LINKING-BEGIN
 {
