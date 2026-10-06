@@ -5,13 +5,13 @@
 Open to tech lead, engineering manager, and senior engineer roles in web3, AI agents, or both.
 → [CV](https://0xbbjoker.github.io/) · [PDF](https://0xbbjoker.github.io/assets/Benjamin_Berta_CV_2026.pdf) · [LinkedIn](https://www.linkedin.com/in/berta-benjamin) · 0xbbjoker@proton.me
 
-## Now — CTO, [Autonomous](https://auto.fun)
+## Now — CTO, Autonomous
 
 Leading engineering on **Auto**, an AI trading agent that executes across crypto, perps, prediction markets, and DeFi from chat.
 
 - 3-engineer team, zero → production, **1,700+ users**
 - **12+ chains, 10+ venues**: Hyperliquid, Polymarket, Aave, Morpho, Jupiter, CoW, Uniswap, 0x
-- **600+ merged PRs** of my own (private repos — happy to walk through the architecture)
+- **600+ merged PRs** of my own (private repos; [docs](https://docs.auto.fun), demo access on request)
 
 ## Also
 
